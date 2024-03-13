@@ -1,4 +1,4 @@
 # proj1
-
-## Author - Shantanu Joshi
-### Personal project
+<Br>
+### Author - Shantanu Joshi
+#### Personal project
